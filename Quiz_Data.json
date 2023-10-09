@@ -1,0 +1,33 @@
+{
+  "question": [
+    "Q1. Cataract is the disease of?",
+    "Q2. Sun is a?",
+    "Q3. Cry of lion is called?",
+    "Q4. Shape of Egg is?"
+  ],
+  "answer": [
+    1,
+    2,
+    3,
+    2
+  ],
+  "options": [
+
+    ["Eyes",
+      "Nose",
+      "Ears"
+    ],
+    ["Planet",
+      "Star",
+      "Universe"
+    ],
+    ["Bark",
+      "Cry",
+      "Roar"
+    ],
+    ["Circle",
+      "Oval",
+      "Cube"
+    ]
+  ]
+}
